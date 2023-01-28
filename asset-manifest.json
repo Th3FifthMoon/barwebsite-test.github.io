@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barwebsite-test.github.io/static/css/main.a9e26e84.css",
-    "main.js": "/barwebsite-test.github.io/static/js/main.060cb5de.js",
+    "main.js": "/barwebsite-test.github.io/static/js/main.e4eb3869.js",
     "static/js/787.4142cbc8.chunk.js": "/barwebsite-test.github.io/static/js/787.4142cbc8.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/barwebsite-test.github.io/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/barwebsite-test.github.io/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -39,11 +39,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/barwebsite-test.github.io/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/barwebsite-test.github.io/index.html",
     "main.a9e26e84.css.map": "/barwebsite-test.github.io/static/css/main.a9e26e84.css.map",
-    "main.060cb5de.js.map": "/barwebsite-test.github.io/static/js/main.060cb5de.js.map",
+    "main.e4eb3869.js.map": "/barwebsite-test.github.io/static/js/main.e4eb3869.js.map",
     "787.4142cbc8.chunk.js.map": "/barwebsite-test.github.io/static/js/787.4142cbc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9e26e84.css",
-    "static/js/main.060cb5de.js"
+    "static/js/main.e4eb3869.js"
   ]
 }
